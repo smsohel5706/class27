@@ -1,0 +1,406 @@
+
+
+
+
+@media(max-width: 1435px){
+
+  .about-right {
+    float: right;
+    width: 68%;
+    margin-bottom: 70px;
+  }
+
+  .about-left {
+ 
+    width: 27%;
+    margin-right: 3%;
+  }
+  
+  .item p {
+   
+    width: 90%;
+  }
+
+
+
+
+}
+
+@media(max-width: 1400px){
+  .item p {
+    width: 83%;
+  }
+
+}
+
+@media(max-width: 1370px){
+
+  .about-left {
+    width: 26%;
+  }
+
+
+  .about-right {
+  
+    width: 66%;
+    
+  }
+
+  .item p {
+    width: 74%;
+  }
+
+}
+
+@media(max-width: 1260px){
+
+  .about-left {
+    width: 28%;
+  }
+
+  .about-right {
+    width: 65%;
+  }
+
+  .item p {
+    width: 67%;
+  }
+}
+
+
+
+
+
+
+
+
+@media(max-width: 1224px){
+    
+  .design a {
+   
+    font-size: 21px;
+  }
+
+  .design h1 {
+  
+    font-size: 17px;
+  }
+
+  .design {
+ 
+    width: 20%;
+  
+    margin-left: 1%;
+    margin-right: 1%;
+   
+  }
+
+  .imge img {
+    margin-left: 388px;
+  }
+
+  .about-left {
+    width: 100%;
+  }
+
+
+
+  .about-right {
+    width: 100%;
+  
+  }
+
+  .contact-header h1 {
+    margin-left: 392px;
+  }
+
+
+  .contact-header p {
+    font-size: 20px;
+   
+    
+  }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 950px){
+    .right-content ul li a {
+     
+        font-size: 18px;
+     
+      }
+
+      .slider {
+      
+        padding: 137px 0;
+       
+      }
+
+      .slider-content h1 {
+        font-size: 38px;
+       
+      }
+  
+      .design {
+        width: 100%;
+      
+      }
+
+      .design h1 {
+        font-size: 43px;
+      }
+
+
+      .design a {
+        font-size: 40px;
+      }
+
+      .design {
+      
+        padding-bottom: 35px;
+      }
+
+      .rekha {
+       height: 0;
+        width: 0;
+      }
+
+
+      .servic p {
+        font-size: 16px;
+      }
+
+    }
+    .us p {
+      font-size: 17px;
+   
+    }
+
+@media(max-width: 938px){
+
+  .sector {
+   
+    padding-right: 47px;
+  }
+
+  .sector h4 {
+    font-size: 15px;
+   
+  }
+
+  .sector a {
+    font-size: 30px;
+    color: #b3bf0d;
+  }
+
+
+  .imge img {
+    margin-left: 246px;
+  }
+
+
+
+}
+
+
+
+
+
+    
+  
+
+
+
+
+
+   
+   /*  */
+
+
+@media(max-width: 762px) {
+    .right-content ul li a {
+        
+       
+        padding: 0 9px;
+       
+      }
+}
+
+@media(max-width: 650px){
+    .header .right-content {
+        text-align: center;
+        padding-top: 10px;
+      }
+
+      .left-logo img {
+        text-align: center;
+        width: 100%;
+      
+      }
+
+}
+
+
+@media(max-width: 624px){
+
+  .design h1 {
+    font-size: 28px;
+  }
+
+  .design p {
+    width: 50%;
+    margin: auto;
+    padding-top: 10px;
+    color: rebeccapurple;
+  }
+
+  .servic h2 {
+    padding-bottom: 12px;
+    font-size: 28px;
+  }
+
+  .servic p {
+    font-size: 16px;
+    width: 50%;
+    margin: auto;
+    color: rebeccapurple;
+  }
+
+  .servic {
+    padding-top: 55px;
+    padding-bottom: 20px;
+
+  }
+
+  .us h1 {
+   
+    padding-top: 42px;
+    padding-bottom: 20px;
+    font-size: 28px;
+  }
+
+  .us p {
+    font-size: 16px;
+    width: 50%;
+    margin: auto;
+    color: rebeccapurple;
+  }
+
+
+  .sector {
+    padding-right: 16px;
+  }
+
+  .sector a {
+    font-size: 20px;
+    color: red;
+  }
+
+  .sector h4 {
+    font-size: 11px;
+    color: blue;
+  }
+
+
+  .imge img {
+    margin-left: 118px;
+  }
+
+
+
+
+
+
+
+
+
+}
+@media(max-width: 570px){
+  .imge img {
+    margin-left: 44px;
+  }
+
+
+  .footer {
+
+    padding: 13px;
+  
+  }
+
+
+  .footer a {
+    font-size: 18px;
+    
+    margin-right: 10px;
+    margin-left: 10px;
+    color: blueviolet;
+  }
+
+
+
+
+
+}
+
+
+
+
+@media(max-width: 455px){
+
+   
+    .right-content ul li a {
+      padding: 0 4px;
+      font-size: 14px;
+      color: red;
+    }
+
+    .left-logo img {
+      
+        width: 48%;
+        margin-left: 102px;
+        padding-bottom: 10px;
+      }
+
+
+      .slider-content h1 {
+        font-size: 20px;
+      }
+
+
+      .slider-content p {
+        font-size: 14px;
+        padding-bottom: 31px;
+        color: yellow;
+      }
+
+      .slider-content a {
+       
+     
+        border: 1px solid white;
+        padding: 7px 9px;
+       
+        font-size: 14px;
+        background: rebeccapurple;
+      }
+
+
+
+}
